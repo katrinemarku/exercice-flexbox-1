@@ -42,6 +42,40 @@ video {
   vertical-align: middle;
 }
 
+.section {
+  background-color: #2a9d8f;
+  margin-top: 40px;
+  padding: 20px;
+  color: #ffefef;
+  font-family: Playfair Display;
+  font-size: 42px;
+  display: flex;
+  gap: 20px;
+}
+
+.box {
+  background-color: #264653;
+  padding: 40px;
+  justify-content: space-between;
+}
+
+.section-2 {
+  justify-content: right;
+}
+
+.section-3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.section-4 {
+  justify-content: space-between;
+}
+
+.section-5 {
+  flex-direction: column;
+  align-items: center;
+}
 /* ====================================
 // base rules
 // ==================================== */
